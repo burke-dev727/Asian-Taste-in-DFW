@@ -1,7 +1,5 @@
 # Web Development Project 1 - *Authetic Asian Taste in DFW Area*
 
-Submitted by: **Xinrui Hou**
-
 This web app: **This website is a REACT application with functional components and props to pass in order to present a list of Authetic Asian resrtaurants in DFW area.**
 
 Time spent: **3** hours spent in total
